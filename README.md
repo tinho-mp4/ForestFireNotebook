@@ -1,4 +1,4 @@
-# 2220820 notebook
+# Forest Fires
 Forest fires pose a significant threat to the environment and human well-being, causing extensive damage to ecosystems and endangering biodiversity. Human-induced forest fires are a pressing issue worldwide.
 
 According to the National Park Service, people are responsible for almost 85% of wildland fires in the United States. These fires happen because of different human activities like leaving campfires unattended, burning waste, equipment use and accidents, throwing away cigarettes carelessly, and even purposeful arson. (National Park Service, 2022)
